@@ -215,7 +215,7 @@ MonoBehaviour:
   m_LightEstimationMode: -1
   m_AutoFocus: 1
   m_LightEstimation: 0
-  m_FacingDirection: 1
+  m_FacingDirection: 2
 --- !u!114 &22732923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -669,11 +669,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96aa599ecef61a291a1b93607f523c1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blockPrefab: {fileID: 3317251370235542925, guid: 9749a09a2caeec384ad61a046bc24fa5,
+  blockPrefab: {fileID: 6867645340015728419, guid: 091f42f0895324d2e9530ac00242eac5,
     type: 3}
   placementLayer:
     serializedVersion: 2
     m_Bits: 64
+  gridSize: 0.2
 --- !u!4 &2016988777
 Transform:
   m_ObjectHideFlags: 0
